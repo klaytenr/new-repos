@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    border: 8px grey solid;
+    width: 970px;
+    height: 500px;
+    background-color: black;
+}
+#selector{
+    background-color: darkgray;
+    border-radius: 7px;
+    border: solid 3px grey;
+    width: 275px;
+    height: 150px;
+    margin: 100px 0 0 347px;
+    text-align: center;
+}
+#header{
+    color: orange;
+    text-shadow: 2px 2px 2px white;
+    margin-top: 15px;
+}
